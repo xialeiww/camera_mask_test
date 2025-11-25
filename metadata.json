@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Film Camera",
+  "description": "A premium iOS-styled film simulation camera app. Capture moments with distinct analog aesthetics and use AI to generate poetic descriptions for your memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
